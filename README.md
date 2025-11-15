@@ -1,5 +1,5 @@
-## 🩸 Blood Donation Management System
-
+# 🩸 Blood Donation Management System
+## DBMS Project
 
 The Blood Donation Management System is a web application developed to streamline and digitalize the blood donation process. The system enables donors to register, update, and manage their profiles, while recipients can request and track blood availability with ease.
 
@@ -34,6 +34,7 @@ The Blood Donation Management System is a web application developed to streamlin
 |--------------|
 | ![Inventory List](bb3.png) |
 ---
+
 
 
 
