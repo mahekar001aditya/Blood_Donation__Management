@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #B22222, #C71585);
+  color: white;
+}
+
+.section {
+  padding: 40px;
+  background: white;
+  color: black;
+  margin: 20px;
+  border-radius: 12px;
+}
